@@ -11,10 +11,7 @@ No suggestions, instructions or code posted by me on any online platform are sup
 on [docs.oracle.com](https://docs.oracle.com).
 
 I have previously published articles in [Linux Format](https://linuxformat.com/archives?author_find=87) magazine, and I 
-co-founded [Glimpse Image Editor](https://glimpse-editor.org). 
-
-Glimpse Image Editor is [no longer being actively developed](https://glimpse-editor.org/posts/a-project-on-hiatus/). I 
-encourage you to use and support the [GNU Image Manipulation Program](https://www.gimp.org/) instead.
+co-founded [Glimpse Image Editor](https://glimpse-editor.org) (no longer in active development).
 
 <!---
 TrechNex/TrechNex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
