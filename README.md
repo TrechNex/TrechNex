@@ -13,8 +13,7 @@ on [docs.oracle.com](https://docs.oracle.com).
 I have previously published articles in [Linux Format](https://linuxformat.com/archives?author_find=87) magazine, and I 
 co-founded [Glimpse Image Editor](https://glimpse-editor.org) (no longer in active development).
 
-Backups of my previously published open source projects can be viewed on [GitLab.com](https://gitlab.com/TrechNex). You can also
-review my prior work experience in the technology industry on [LinkedIn](https://www.linkedin.com/in/trechnex/).
+You can review my prior work experience in the technology industry on [LinkedIn](https://www.linkedin.com/in/trechnex/).
 
 <!---
 TrechNex/TrechNex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
