@@ -11,7 +11,7 @@ No suggestions, instructions or code posted by me on any online platform are sup
 on [docs.oracle.com](https://docs.oracle.com).
 
 I have previously published articles in [Linux Format](https://linuxformat.com/archives?author_find=87) magazine, and I 
-co-founded [Glimpse Image Editor](https://glimpse-editor.org) (no longer in active development).
+co-founded Glimpse Image Editor (no longer in active development, now removed from the Internet).
 
 You can review my prior work experience in the technology industry on [LinkedIn](https://www.linkedin.com/in/trechnex/).
 
