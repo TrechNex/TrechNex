@@ -10,8 +10,8 @@ All views are my own and not necessarily those of my employer.
 No suggestions, instructions or code posted by me on any online platform are supported by my employer unless explicitly stated
 on [docs.oracle.com](https://docs.oracle.com).
 
-I have previously published articles in [Linux Format](https://linuxformat.com/archives?author_find=87) magazine and 
-worked on Glimpse Image Editor in my spare time 2019-2021.
+I have previously published articles in [Linux Format](https://linuxformat.com/archives?author_find=87) magazine, and used to
+work on [Glimpse Image Editor](https://trechnex.com/2022/06/11/glimpse-a-year-on-hiatus/) in my spare time.
 
 You can review my prior work experience in the technology industry on [LinkedIn](https://www.linkedin.com/in/trechnex/).
 
