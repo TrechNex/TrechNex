@@ -11,7 +11,7 @@ No suggestions, instructions or code posted by me on any online platform are sup
 on [docs.oracle.com](https://docs.oracle.com).
 
 I have previously published articles in [Linux Format](https://linuxformat.com/archives?author_find=87) magazine, and I worked
-on [Glimpse Image Editor](https://trechnex.com/2022/06/11/glimpse-a-year-on-hiatus/) for a couple of years as a side-project.
+on a number of libre software side-projects when I was still a professional software engineer.
 
 You can review my prior work experience in the technology industry on [LinkedIn](https://www.linkedin.com/in/trechnex/).
 
