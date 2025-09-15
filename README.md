@@ -12,7 +12,7 @@ on [docs.oracle.com](https://docs.oracle.com).
 
 I have previously published articles in [Linux Format](https://web.archive.org/web/20250209023243/https://linuxformat.com/archives?author_find=87) magazine, and on my
 previous GitHub account I worked on a number of libre software side-projects, most notably the "Glimpse" fork of the 
-GNU Image Manipulation Program. You can find archived versions of that project's
+GNU Image Manipulation Program. You can find externally archived versions of that project's
 [website](https://web.archive.org/web/20230506111257/https://glimpse-editor.org/) and 
 [source code](https://archive.org/details/glimpse-0.2.0) on archive.org.
 
