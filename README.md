@@ -14,7 +14,8 @@ I have previously published articles in [Linux Format](https://linuxformat.com/a
 previous GitHub account I worked on a number of libre software side-projects, most notably the "Glimpse" fork of the 
 GNU Image Manipulation Program.
 
-You can review my prior work experience in the technology industry on [LinkedIn](https://www.linkedin.com/in/trechnex/).
+You can review my prior work experience in the technology industry and current certifications on 
+[LinkedIn](https://www.linkedin.com/in/trechnex/).
 
 <!---
 TrechNex/TrechNex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
