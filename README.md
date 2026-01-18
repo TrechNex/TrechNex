@@ -12,7 +12,7 @@ on [docs.oracle.com](https://docs.oracle.com).
 
 I have previously published articles in [Linux Format](https://web.archive.org/web/20250209023243/https://linuxformat.com/archives?author_find=87) magazine, and on my
 previous GitHub account I worked on a number of libre software side-projects, most notably the "Glimpse" fork of the 
-GNU Image Manipulation Program. Archived (read-only) versions of those projects are now [hosted on Codeberg](https://codeberg.org/TrechNex).
+GNU Image Manipulation Program. Archived (read-only) versions of those projects are now hosted on [Codeberg](https://codeberg.org/TrechNex).
 
 You can review my prior work experience in the technology industry and current certifications on 
 [LinkedIn](https://www.linkedin.com/in/trechnex/).
